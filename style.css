@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Muli', sans-serif;
+  font-size: 18px;
+  background-color: #dfe2fe;
+}
+
+h1 {
+  margin-top: 0;
+  color: #503bff;
+  font-weight: 200;
+  font-size: 40px;
+  font-family: 'Muli', sans-serif;
+}
+
+h2 {
+  color: #503bff;
+  font-family: 'Muli', sans-serif;
+  font-weight: 200;
+}
+
+h3 {
+  font-family: 'Muli', sans-serif;
+  font-weight: 200;
+  color: #503bff;
+}
+
+h4 {
+  font-family: 'Muli', sans-serif;
+  font-weight: 200;
+  color: #503bff;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  width: 5%;
+  color: #742dd2;
+}
+
+ul {
+  text-align: left;
+  width: 70%;
+  margin: 5px auto 5px auto;
+}
+
+li {
+  text-align: left;
+  width: 150%;
+  margin: 5px auto 5px auto;
+}
+
+.top-container {
+  background-color: #dfe2fe;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: relative;
+  text-align: center;
+}
+
+.bottom-container {
+  margin-top: 0;
+  background-color: white;
+  padding-top: 10px;
+  position: relative;
+}
+
+.profile {
+  padding-bottom: 20px;
+  width: 30%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.education {
+  width: 30%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.dissertation {
+  padding: 50px;
+  width: 30%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.skills {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  width: 30%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.ios {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  width: 30%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.hobbies {
+  width: 30%;
+  margin: 50px auto 50px auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.contact {
+  padding-bottom: 30px;
+}
+
+.email {
+  padding-bottom: 50px; 
+}
